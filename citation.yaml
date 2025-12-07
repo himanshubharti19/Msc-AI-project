@@ -1,0 +1,14 @@
+
+---
+
+## 3. Put it on GitHub (step-by-step)
+
+Once the files are created:
+
+1. **Open a terminal** in the project folder (the root with README.md).
+2. Initialize git:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: myocardial infarction severity ML/DL project"
